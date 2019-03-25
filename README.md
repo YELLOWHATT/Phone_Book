@@ -84,6 +84,8 @@ output: start(); func
 - [.gitignore](https://github.com/YELLOWHATT/Phone_Book/blob/master/.gitignore)
 - [LICENSE](https://github.com/YELLOWHATT/Phone_Book/blob/master/LICENSE) 
 - [README.md](https://github.com/YELLOWHATT/Phone_Book/blob/master/README.md) 
+- [prism.c](https://github.com/YELLOWHATT/Phone_Book/blob/master/prism.c)
+- [runprism](https://github.com/YELLOWHATT/Phone_Book/blob/master/runprism)
 
 #### Files are subject to have their name changed and more files can be included without notice. 
 
@@ -97,7 +99,7 @@ output: start(); func
 
 ## Contributing
 
-If you wish to help on this project you can simply make changes to the file and post your changes and if they are appreciated we will merge them to the Master branch. Please read the [CONTRIBUTING.md](https://github.com/YELLOWHATT/Casper/blob/master/CONTRIBUTORS.md) file for more information. If you have contributed to this work known as Darwin you will be credited the file for contributors is [CONTRIBUTIONS.md](https://github.com/YELLOWHATT/Casper/blob/master/CONTRIBUTIONS.md). :) 
+If you wish to help on this project you can simply make changes to the file and post your changes and if they are appreciated we will merge them to the Master branch. Please read the [CONTRIBUTING.md](https://github.com/YELLOWHATT/Phone_Book/blob/master/CONTRIBUTORS.md) file for more information. If you have contributed to this work known as Darwin you will be credited the file for contributors is [CONTRIBUTIONS.md](https://github.com/YELLOWHATT/Phone_Book/blob/master/CONTRIBUTIONS.md). :) 
 
 --- 
 
