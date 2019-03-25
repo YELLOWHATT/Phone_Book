@@ -1,7 +1,7 @@
 # Phone_Book
 > A Phone manager
 
-![](https://img.shields.io/badge/C-11-lightblue.svg) ![](https://img.shields.io/badge/license-MIT-lightgray.svg) ![](https://img.shields.io/badge/version-0.0.1a-yellow.svg) ![](https://img.shields.io/badge/build-passing-green.svg) ![](https://img.shields.io/badge/ShellScript-5.0-red.svg)
+![](https://img.shields.io/badge/C-11-lightblue.svg) ![](https://img.shields.io/badge/license-MIT-lightgray.svg) ![](https://img.shields.io/badge/version-0.0.3a-yellow.svg) ![](https://img.shields.io/badge/build-passing-green.svg) ![](https://img.shields.io/badge/ShellScript-5.0-red.svg)
 
 --- 
 
@@ -133,9 +133,9 @@ See | [LICENSE.md](https://github.com/YELLOWHATT/Phone_Book/blob/master/LICENSE)
 
 ## Version Info 
 
-The current stable version of Phone_Book is: 0.0.1a. 
+The current stable version of Phone_Book is: 0.0.3a. 
 
-Summury of Version 0.0.1a is basic application has been made. 
+Summury of Version 0.0.3a is basic application has been made. 
 
 --- 
 
