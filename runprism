@@ -1,5 +1,7 @@
 #!/bin/bash 
 
 # Run from here 
+# These files are linux only compatible
+# Do not change this file's first and last line
 
 ./prism --go
